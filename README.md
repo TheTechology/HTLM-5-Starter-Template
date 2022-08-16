@@ -1,4 +1,4 @@
-# html5-starter-template
+# html5-starter-template @Marian DUMITRU
 Html5 Starter template was created to start a new project without rewriting everything from 0
 
 # .htacces file
